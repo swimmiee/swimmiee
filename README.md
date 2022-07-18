@@ -11,19 +11,19 @@ swimmiee
 ## Open Source
 ### hardhat-craftform
 (in development)  
+Hardhat TypeScript plugin for continuous integration  
 - [github](https://github.com/swimmiee/hardhat-craftform)
 - [npm](https://www.npmjs.com/package/hardhat-craftform)
-Hardhat TypeScript plugin for continuous integration  
 
 ### caver-multicall
+Multicall library for caver-js  
 - [github](https://github.com/swimmiee/caver-multicall)  
 - [npm](https://www.npmjs.com/package/caver-multicall)  
-Multicall library for caver-js  
 
 ### slack-webhook-alias
+Slack Webhook Library with alias for sending Slack notifications to multiple channels
 - [github](https://github.com/swimmiee/slack-webhook-alias)
 - [npm](https://www.npmjs.com/package/slack-webhook-alias)  
-Slack Webhook Library with alias for sending Slack notifications to multiple channels
 
 
 ## Chrome extensions
