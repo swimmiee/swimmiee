@@ -3,8 +3,8 @@
 ## Mobile Applications
 ## Open Source
 ### hardhat-craftform
-(in development)
-[npm](https://www.npmjs.com/package/hardhat-craftform)
+(in development). 
+[npm](https://www.npmjs.com/package/hardhat-craftform)  
 Hardhat TypeScript plugin for continuous integration
 
 
