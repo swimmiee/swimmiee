@@ -23,7 +23,7 @@ Slack Webhook Library with alias for sending Slack notifications to multiple cha
 - [iOS](https://apps.apple.com/kr/app/id1625473170)  
 - [Android](https://play.google.com/store/apps/details?id=com.almo)  
 ### 고고링
-[iOS](https://apps.apple.com/kr/app/id1590665269)  
+- [iOS](https://apps.apple.com/kr/app/id1590665269)  
 
 
 ## Chrome extensions
