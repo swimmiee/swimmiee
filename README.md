@@ -1,9 +1,16 @@
-# Lee Soo Young
+# Lee Sooyoung
+swimmiee
+
 
 ## Mobile Applications
+[알모 iOS](https://apps.apple.com/kr/app/id1625473170)  
+[알모 Android](https://play.google.com/store/apps/details?id=com.almo)  
+[고고링 iOS](https://apps.apple.com/kr/app/id1590665269)  
+
+
 ## Open Source
 ### hardhat-craftform
-(in development). 
+(in development)  
 - [github](https://github.com/swimmiee/hardhat-craftform)
 - [npm](https://www.npmjs.com/package/hardhat-craftform)
 Hardhat TypeScript plugin for continuous integration  
