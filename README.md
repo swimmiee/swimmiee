@@ -12,6 +12,13 @@ Multicall library for caver-js
 - [github](https://github.com/swimmiee/caver-multicall)  
 - [npm](https://www.npmjs.com/package/caver-multicall)  
 
+
+### console-log-interceptor
+console.log interceptor for grab your console.logs
+- [github](https://github.com/swimmiee/console-log-interceptor)
+- [npm](https://www.npmjs.com/package/console-log-interceptor)  
+
+
 ### slack-webhook-alias
 Slack Webhook Library with alias for sending Slack notifications to multiple channels
 - [github](https://github.com/swimmiee/slack-webhook-alias)
