@@ -21,7 +21,7 @@ console.log interceptor for grab your console.logs
 
 ### slack-webhook-alias
 Slack Webhook Library with alias for sending Slack notifications to multiple channels
-- [github](https://github.com/swimmiee/slack-webhook-alias)
+- [github](https://github.com/swimmiee/slack-webhook)
 - [npm](https://www.npmjs.com/package/slack-webhook-alias)  
 
 
