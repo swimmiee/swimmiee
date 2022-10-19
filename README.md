@@ -30,8 +30,9 @@ led by Web3Scholarships
 #### Evmos StayKing House
 Leveraged staking service solely for EVMOS holders
 - [details](https://devpost.com/software/stayking)
-- [Competition Info](https://evmos2022.devpost.com/)
 - [github](https://github.com/evmos-stayking-house/defi-contract)
+- [Competition Info](https://evmos2022.devpost.com/)
+- [article](https://technode.global/2022/10/19/evmos-stayking-house-protocol-wins-evmos-momentum-hackathon-grand-prize/)
 
 
 ## Mobile Applications
