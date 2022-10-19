@@ -27,7 +27,7 @@ Slack Webhook Library with alias for sending Slack notifications to multiple cha
 ## Evmos Momentum Hackathon
 ### Grand Prize
 led by Web3Scholarships
-##### Evmos StayKing House
+#### Evmos StayKing House
 Leveraged staking service solely for EVMOS holders
 - [details](https://devpost.com/software/stayking)
 - [Competition Info](https://evmos2022.devpost.com/)
