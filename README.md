@@ -1,6 +1,12 @@
 🏊🏻‍♂️
 
 ## Open Source
+
+### uniswapv2-path-optimizer
+Optimal swap path finder for UniswapV2-based AMM DEX model  
+- [github](https://github.com/swimmiee/uniswapv2-path-optimizer)
+- [npm](https://www.npmjs.com/package/uniswapv2-path-optimizer)
+
 ### hardhat-craftform
 (in development)  
 Hardhat TypeScript plugin for continuous integration  
