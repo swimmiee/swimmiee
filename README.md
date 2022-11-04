@@ -30,12 +30,12 @@ Slack Webhook Library with alias for sending Slack notifications to multiple cha
 - [github](https://github.com/swimmiee/slack-webhook)
 - [npm](https://www.npmjs.com/package/slack-webhook-alias)  
 
-## Evmos Momentum Hackathon
+## [Evmos Momentum Hackathon](https://momentumhack.evmos.org/)
 ### Grand Prize
 led by Web3Scholarships
 #### Evmos StayKing House
 Leveraged staking service solely for EVMOS holders
-- [Homepage](https://momentumhack.evmos.org/) | [details](https://devpost.com/software/stayking)
+- [details](https://devpost.com/software/stayking)
 - [github](https://github.com/evmos-stayking-house/defi-contract)
 - [Competition Info](https://evmos2022.devpost.com/)
 - [article](https://technode.global/2022/10/19/evmos-stayking-house-protocol-wins-evmos-momentum-hackathon-grand-prize/)
