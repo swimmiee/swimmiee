@@ -2,7 +2,7 @@
 
 
 ## [Evmos Momentum Hackathon](https://devpost.com/software/stayking)
-**Grand Prize**
+**👑 Grand Prize**
 ### Evmos StayKing House
 Leveraged staking service solely for EVMOS holders
 - [details](https://devpost.com/software/stayking)
