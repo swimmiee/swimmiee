@@ -1,5 +1,16 @@
 🏊🏻‍♂️
 
+
+## [Evmos Momentum Hackathon](https://devpost.com/software/stayking)
+**Grand Prize**
+### Evmos StayKing House
+Leveraged staking service solely for EVMOS holders
+- [details](https://devpost.com/software/stayking)
+- [github](https://github.com/evmos-stayking-house/defi-contract)
+- [Competition Info](https://evmos2022.devpost.com/)
+- [article](https://technode.global/2022/10/19/evmos-stayking-house-protocol-wins-evmos-momentum-hackathon-grand-prize/)
+
+
 ## Open Source
 
 ### uniswapv2-path-optimizer
@@ -29,15 +40,6 @@ console.log interceptor for grab your console.logs
 Slack Webhook Library with alias for sending Slack notifications to multiple channels
 - [github](https://github.com/swimmiee/slack-webhook)
 - [npm](https://www.npmjs.com/package/slack-webhook-alias)  
-
-## [Evmos Momentum Hackathon](https://devpost.com/software/stayking)
-**Grand Prize**
-### Evmos StayKing House
-Leveraged staking service solely for EVMOS holders
-- [details](https://devpost.com/software/stayking)
-- [github](https://github.com/evmos-stayking-house/defi-contract)
-- [Competition Info](https://evmos2022.devpost.com/)
-- [article](https://technode.global/2022/10/19/evmos-stayking-house-protocol-wins-evmos-momentum-hackathon-grand-prize/)
 
 
 ## Mobile Applications
