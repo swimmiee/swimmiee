@@ -1,5 +1,5 @@
 🏊🏻‍♂️
-
+# Prizes
 
 ## [Evmos Momentum Hackathon](https://devpost.com/software/stayking)
 **👑 Grand Prize**
@@ -11,7 +11,19 @@ Leveraged staking service solely for EVMOS holders
 - [article](https://technode.global/2022/10/19/evmos-stayking-house-protocol-wins-evmos-momentum-hackathon-grand-prize/)
 
 
-## Open Source
+
+## [ETHGlobal Tokyo](https://ethglobal.com/showcase/defuture-g31hx)
+### 🏆 MetaMask, Best Use of Linea
+### 🏆 Polygon, Pool Prize  
+### 📜 Scroll, Just Deploy  
+ 
+### Defuture
+Fully decentralized futures trading platform that enables easy position management through hedging and leverage for DEX.
+- [github] https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures
+
+---
+
+# Open Source
 
 ### uniswapv2-path-optimizer
 Optimal swap path finder for UniswapV2-based AMM DEX model  
