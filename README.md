@@ -1,4 +1,4 @@
-🏊🏻‍♂️
+# 🏊🏻‍♂️
 # Prizes
 
 ## [Evmos Momentum Hackathon](https://devpost.com/software/stayking)
