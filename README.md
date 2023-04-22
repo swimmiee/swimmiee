@@ -19,7 +19,8 @@ Leveraged staking service solely for EVMOS holders
  
 ### Defuture
 Fully decentralized futures trading platform that enables easy position management through hedging and leverage for DEX.
-- [github] https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures
+- [ETHGlobal Showcase](https://ethglobal.com/showcase/defuture-g31hx)
+- [github](https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures)
 
 ---
 
