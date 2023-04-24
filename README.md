@@ -13,9 +13,9 @@ Leveraged staking service solely for EVMOS holders
 
 
 ## [ETHGlobal Tokyo](https://ethglobal.com/showcase/defuture-g31hx)
-### 🏆 MetaMask, Best Use of Linea
-### 🏆 Polygon, Pool Prize  
-### 📜 Scroll, Just Deploy  
+**🏆 MetaMask, Best Use of Linea**  
+**🏆 Polygon, Pool Prize**  
+**📜 Scroll, Just Deploy**   
  
 ### Defuture
 Fully decentralized futures trading platform that enables easy position management through hedging and leverage for DEX.
