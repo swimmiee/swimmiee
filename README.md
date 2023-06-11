@@ -67,3 +67,7 @@ Slack Webhook Library with alias for sending Slack notifications to multiple cha
 ## Contract-Universe
 Chrome extension for easy contract call  
 - [github](https://github.com/swimmiee/contract-universe)
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswimmiee&count_bg=%2358A6FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=thanks%21&edge_flat=false)](https://hits.seeyoufarm.com)
