@@ -22,7 +22,17 @@ Fully decentralized futures trading platform that enables easy position manageme
 - [ETHGlobal Showcase](https://ethglobal.com/showcase/defuture-g31hx)
 - [github](https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures)
 
+
+## [ETH Seoul](https://devfolio.co/projects/wifi-ca12)
+**🏆 Financial Application, 1st prize(Organizer Prize)**  
+**🏆 The graph, Best Use of Existing Subgraphs**  
+
+### WiFi 
+Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in exploring, investing in various DeFi opportunities without the need to leave the dApp even once.
+- [Project Details](https://devfolio.co/projects/wifi-ca12)
+- [github](https://github.com/take5ive/wi-fi-eth-seoul)
 ---
+
 
 # Open Source
 
