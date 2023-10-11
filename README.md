@@ -12,25 +12,44 @@ Leveraged staking service solely for EVMOS holders
 
 
 
-## [ETHGlobal Tokyo](https://ethglobal.com/showcase/defuture-g31hx)
-**🏆 MetaMask, Best Use of Linea**  
-**🏆 Polygon, Pool Prize**  
-**📜 Scroll, Just Deploy**   
- 
-### Defuture
-Fully decentralized futures trading platform that enables easy position management through hedging and leverage for DEX.
+## ETHGlobal
+### 🇯🇵 [Tokyo - Defuture](https://ethglobal.com/showcase/defuture-g31hx) (April 2023)
+Fully decentralized futures trading platform that enables easy position management through hedging and leverage for DEX.  
+#### 🏆 MetaMask, Best Use of Linea
+#### 🏆 Polygon, Pool Prize
+#### 📜 Scroll, Just Deploy  
 - [ETHGlobal Showcase](https://ethglobal.com/showcase/defuture-g31hx)
 - [github](https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures)
 
+### 🗽 [NewYork - tAAke Five](https://ethglobal.com/showcase/taake-five-rrbfb) (September 2023)
+An Interactive DeFi platform that dramatically improves DeFi investment UX with Account Abstraction.   
+#### 💹 Biconomy — Best DeFi Recipe  
+#### 🌎 Linea — Best Account Abstraction Dapp  
+#### 🏆 The Graph — Pool Prize  
+#### 🏆 Scroll — Pool Prize  
+#### 🏆 Arbitrum — Pool Prize  
+- [ETHGlobal Showcase](https://ethglobal.com/showcase/taake-five-rrbfb)
+- [github](https://github.com/swimmiee/ethnewyork-taake-five)
+
 
 ## [ETH Seoul](https://devfolio.co/projects/wifi-ca12)
-**🏆 Financial Application, 1st prize(Organizer Prize)**  
-**🏆 The graph, Best Use of Existing Subgraphs**  
+#### 🏆 Financial Application, 1st prize(Organizer Prize)   
+#### 🏆 The graph, Best Use of Existing Subgraphs  
 
 ### WiFi 
 Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in exploring, investing in various DeFi opportunities without the need to leave the dApp even once.
 - [Project Details](https://devfolio.co/projects/wifi-ca12)
 - [github](https://github.com/take5ive/wi-fi-eth-seoul)
+
+## [ETHcon Korea](https://devfolio.co/projects/loanster-d3f1)
+#### 🏆 Spark Protocol, 2nd Prize   
+#### 🏆 Taiko, 2nd Prize   
+#### 🏆 QF Track, 2nd Prize   
+
+### Loanster 
+Leverage or Hedge UniswapV3 based positions using Lending Protocols(Spark, AAVE, LineaBank) to maximize profits and mitigate Impermanent Loss and enjoy a super smooth UX in a single application.  
+- [Project Details](https://devfolio.co/projects/wifi-ca12)
+- [github](https://github.com/swimmiee/ethcon-korea-loanster)
 ---
 
 
