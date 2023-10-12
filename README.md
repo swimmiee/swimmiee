@@ -50,6 +50,13 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 Leverage or Hedge UniswapV3 based positions using Lending Protocols(Spark, AAVE, LineaBank) to maximize profits and mitigate Impermanent Loss and enjoy a super smooth UX in a single application.  
 - [Project Details](https://devfolio.co/projects/wifi-ca12)
 - [github](https://github.com/swimmiee/ethcon-korea-loanster)
+
+## [0x, AWS, Family, Polygon | Decreasing Frictions in DeFi](https://dorahacks.io/ko/buidl/6679)
+#### 🏆 Grand Prize
+
+## [Polygon APAC DevX Hackathon](https://dorahacks.io/ko/buidl/6091)
+#### 🏆 Application Layer Track Winner
+
 ---
 
 
